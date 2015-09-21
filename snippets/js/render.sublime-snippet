@@ -3,7 +3,7 @@
 render: function() {
 	return (
 		${1:<div />}
-	);
+	)
 }
 ]]></content>
     <tabTrigger>ren</tabTrigger>

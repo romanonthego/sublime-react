@@ -7,10 +7,10 @@ var ${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}} = React.createClass({
 	render: function() {
 		return (
 			${0:<div />}
-		);
+		)
 	}
 
-});
+})
 
 module.exports = ${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}};
 ]]></content>
